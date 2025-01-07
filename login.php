@@ -1,5 +1,5 @@
 <?php
-include "koneksi.php"; // Pastikan file ini berisi koneksi database yang aman
+include "https://bidan-susi.42web.io/koneksi.php"; // Pastikan file ini berisi koneksi database yang aman
 
 // Ambil data dari form
 $username = trim($_POST['username']);
